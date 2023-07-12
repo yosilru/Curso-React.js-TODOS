@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yosilru/Curso-React.js-TODOS.git/static/css/main.d5ad38ac.css",
-    "main.js": "/yosilru/Curso-React.js-TODOS.git/static/js/main.a98284d0.js",
-    "index.html": "/yosilru/Curso-React.js-TODOS.git/index.html",
-    "static/media/delete.svg": "/yosilru/Curso-React.js-TODOS.git/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
-    "static/media/check.svg": "/yosilru/Curso-React.js-TODOS.git/static/media/check.38f596e64d38d54463f988385b633c05.svg",
-    "main.d5ad38ac.css.map": "/yosilru/Curso-React.js-TODOS.git/static/css/main.d5ad38ac.css.map",
-    "main.a98284d0.js.map": "/yosilru/Curso-React.js-TODOS.git/static/js/main.a98284d0.js.map"
+    "main.css": "/yosilru/Curso-React.js-TODOS/static/css/main.d5ad38ac.css",
+    "main.js": "/yosilru/Curso-React.js-TODOS/static/js/main.624921a2.js",
+    "index.html": "/yosilru/Curso-React.js-TODOS/index.html",
+    "static/media/delete.svg": "/yosilru/Curso-React.js-TODOS/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
+    "static/media/check.svg": "/yosilru/Curso-React.js-TODOS/static/media/check.38f596e64d38d54463f988385b633c05.svg",
+    "main.d5ad38ac.css.map": "/yosilru/Curso-React.js-TODOS/static/css/main.d5ad38ac.css.map",
+    "main.624921a2.js.map": "/yosilru/Curso-React.js-TODOS/static/js/main.624921a2.js.map"
   },
   "entrypoints": [
     "static/css/main.d5ad38ac.css",
-    "static/js/main.a98284d0.js"
+    "static/js/main.624921a2.js"
   ]
 }
